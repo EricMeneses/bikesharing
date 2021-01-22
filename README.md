@@ -28,7 +28,7 @@ We found that the highest trip duration among consumers utilizing the bike shari
 
 ![alt text](Screenshots/CheckoutTimesbyGender.png)
 
-In our findings, we have found that men are 2-3 times more likely to utilize the bike sharing service.
+In our findings, we have found that males are 2-3 times more likely to utilize the bike sharing service.
 
 ### Trips by Weekday for Each Hour
 
@@ -49,3 +49,16 @@ When we separate the trips by gender, we don't see a change in consumer usage by
 
 As previously mentioned, Subscribers are regular users. This information is vital to our research because give the above data, this proves that local use for commuting to work is more successful that relying on toursits and vistors.
 
+## Summary
+
+From our recent data, we have found that the bike sharing service in New York is heavily used by locals during what we can assume is a commute to work. This, alone, can keep the bike sharing service afloat if the locals of Des Moines live and work locally. There are two areas to take into consideration.
+
+### Concerns
+
+* First, we know that males utilize the bike sharing service more often than females. Should this project take flight in Des Moines, we will need to heavily market and appeal to both genders to get the most out of local consumers.
+
+![alt text](Screenshots/TripsbyGender(WeekdayperHour)1.png)
+
+* Second, we see that customers (possibly non-locals) usage is considerably lower than that of the locals. It may be of our best interest to market our bike sharing services at all local hotels. Two other ideas come to mind. First, place bike share stations outside of hotels. This will be easily accessible to tourists when they visit. Second, offer a promotional code to hotels for their guests. This will get more tourists to take advantage of our bike sharing services.
+
+![alt text](Screenshots/UserTripsbyGenderbyWeekday.png)
