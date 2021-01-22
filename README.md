@@ -6,10 +6,8 @@ After submitting data to an angel investors, they were still not convinced that 
 
 ## Results
 
-I was unable to upload my data file to GitHub because the file was too large, however, the following screen shots/results will speak for themselves. To view the Tableau Story created for this project, please visit: 
+I was unable to upload the csv file to GitHub because the file was too large, however, the following screen shots/results will speak for themselves. We were successful in converting the "tripduration" column to a DateTime datatype. To view the Tableau Story created for this project, please visit: 
 * [Bike Sharing Project - Tableau Story](https://public.tableau.com/profile/eric.meneses#!/vizhome/Module14_CitiBikeAnalysis/Module14_Challenge?publish=yes)
-
-
 
 ### Top Starting and Ending locations
 
